@@ -7,7 +7,8 @@
   display: flex;
   flex-direction: column;
   gap: 15px;
-  height: 245px;
+  height: auto;
+  max-height: 290px;
   align-items: center;
 }
 
