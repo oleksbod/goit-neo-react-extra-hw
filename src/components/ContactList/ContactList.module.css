@@ -1,0 +1,13 @@
+.list {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.item {
+  width: 100%;
+  max-width: 400px;
+  list-style: none;
+}

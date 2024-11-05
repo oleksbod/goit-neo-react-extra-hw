@@ -1,0 +1,19 @@
+.main {
+  padding: 20px;
+  display: flex;
+  gap: 30px;
+  width: 100%;
+  margin-top: 70px;
+}
+
+.formSection {
+  display: flex;
+  max-width: 280px;
+}
+
+.contactsSection {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  width: calc(100% - 310px);
+}

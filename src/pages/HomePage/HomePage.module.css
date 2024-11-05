@@ -1,0 +1,13 @@
+.container {
+  min-height: calc(100vh - 75px);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  margin-top: 75px;
+}
+
+.title {
+  font-weight: 500;
+  font-size: 48;
+  text-align: center;
+}
