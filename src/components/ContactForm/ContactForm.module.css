@@ -6,14 +6,10 @@
   padding: 15px;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  justify-content: space-between;
   height: auto;
   max-height: 290px;
   align-items: center;
-}
-
-.submitBtn {
-  margin-top: auto;
 }
 
 .formControl {
