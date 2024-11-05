@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+.submitBtn {
+  margin-top: auto;
+}
+
 .formControl {
   display: flex;
   flex-direction: column;

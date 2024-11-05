@@ -61,7 +61,7 @@ function ContactForm() {
           <ErrorMessage className={css.formError} name="number" component="span" />
         </div>
 
-        <Button variant="contained" color="primary" type="submit">
+        <Button variant="contained" color="primary" type="submit" className={css.submitBtn}>
           Add contact
         </Button>
       </Form>
