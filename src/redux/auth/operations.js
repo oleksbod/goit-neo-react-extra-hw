@@ -1,4 +1,4 @@
-import axios from './axiosConfig';
+import axios from './../../axiosConfig';
 import { createAsyncThunk } from '@reduxjs/toolkit';
 
 const setAuthHeader = (token) => {
