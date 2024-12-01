@@ -13,7 +13,7 @@ import Button from '@mui/material/Button';
 import { FormControl, FormHelperText, InputLabel, OutlinedInput } from '@mui/material';
 import toast from 'react-hot-toast';
 
-function RegisterForm() {
+function RegistrationForm() {
   const dispatch = useDispatch();
   const [showPassword, setShowPassword] = useState(false);
 
@@ -115,4 +115,4 @@ function RegisterForm() {
   );
 }
 
-export default RegisterForm;
+export default RegistrationForm;
